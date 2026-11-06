@@ -89,8 +89,6 @@ edu-schedule/
 │   └── 启动系统.command
 ├── 演示截图/
 │   ├── 023-01-overview.png
-│   ├── 023-01-schedule.png
-│   ├── 023-02-conflict.png
 │   ├── 023-02-schedule.png
 │   ├── 023-03-conflict.png
 │   ├── 023-04-attendance.png
@@ -103,7 +101,8 @@ edu-schedule/
 ├── 功能演示.mp4
 ├── 封面.jpg
 ├── 系统使用与二次开发说明.docx
-└── …
+├── 系统使用与二次开发说明.md
+└── 遇到问题.txt
 ```
 
 ## 数据规模与实验结论
